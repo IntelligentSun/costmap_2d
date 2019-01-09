@@ -2,5 +2,5 @@
 
 Automatical resolution added.
 <div align="center">
-        <img src="overview_tf.png" width="50%" height="30%"/>
+        <img src="overview_tf.png" width="100%" height="50%"/>
  </div>
